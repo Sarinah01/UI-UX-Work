@@ -1,7 +1,7 @@
 # UI-UX-Work
 Hello,<br>
 This file contains the links to my UI/UX work.
-<b>I have made 100+ projects on UI/UX but these are my best one.!</b>
+<b>I have made 40+ projects on UI/UX but these are my best one.!</b>
 Here are my few projects:
 
 1) Webpage:
